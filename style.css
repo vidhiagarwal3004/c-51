@@ -1,0 +1,51 @@
+h1 {
+    color:rgb(235, 228, 228);
+    padding-left: 100px;
+}
+p,h3{ 
+    text-align: center;
+}
+
+
+.header{
+ background-color: rgb(85, 7, 30);
+  display:flex;
+  justify-content: space-between;
+}
+.menu a
+{
+ 
+    color: rgb(255,255,255);
+   
+
+}
+.grid
+{
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+}
+
+.footer 
+{
+    display: flex;
+    justify-content: flex-end;
+    
+
+}
+
+
+.item img{
+
+    border: black solid;
+    border-radius:50px;
+    
+}
+
+
+
+
+
+
+
+
